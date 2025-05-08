@@ -5,7 +5,7 @@
 5. 💞️ I’m looking to collaborate on ...
    
 6. 📫 How to reach me:
-by Email: nfedlim.ug24@connect.hku.hk
+by Email
 
 7. 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
