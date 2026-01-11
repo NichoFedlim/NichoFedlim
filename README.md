@@ -1,11 +1,11 @@
 1. 👋 Hi, I’m @NichoFedlim
-2. 👀 I’m interested in ...
+2. 👀 I’m interested in data analytics and finance
    
 4. 🌱 I’m currently learning Python, R, C, and C++
 5. 💞️ I’m looking to collaborate on ...
    
 6. 📫 How to reach me:
-by Email
+by Email - nicholasfedlim@gmail.com
 
 7. 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
