@@ -1,16 +1,16 @@
 1. 👋 Hi, I’m @NichoFedlim
 2. 👀 I’m interested in data analytics and finance
    
-4. 🌱 I’m currently learning Python, R, C, and C++
-5. 💞️ I’m looking to collaborate on ...
+4. 🌱 I’m currently learning Python, JavaScript, R, C, and C++
+5. 💞️ I’m looking to collaborate on everything, especially web development, basic data analytics, and basic machine learning projects.
    
 6. 📫 How to reach me:
 by Email - nicholasfedlim@gmail.com
 
 7. 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I play the Piano.
 I am a beginner in coding.
-Nothing special about me, just carry on with everyday life
+Nothing special about me, just carry on with everyday life.
 
 <!---
 NichoFedlim/NichoFedlim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
